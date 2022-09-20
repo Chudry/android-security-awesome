@@ -119,6 +119,7 @@ A collection of android security related resources.
 39. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 40. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 41. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis~~
+42. [DroidBot](https://github.com/honeynet/droidbot/) – Auto Clicking
 
 ### Reverse Engineering
 
